@@ -73,6 +73,9 @@ text
 
 1. **Clone the repository**
    ```bash
+   git clone https://github.com/RounakRaju/LogiSense-AI-Supply-Chain.git
+   cd LogiSense-AI-Supply-Chain
+Install dependencies
 
 bash
 pip install flask flask-cors networkx
