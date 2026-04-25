@@ -73,8 +73,7 @@ text
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/RounakRaju/LogiSense-AI-Supply-Chain.git
-   cd LogiSense-AI-Supply-Chain
+   https://github.com/RounakRaju/AI-Project_Logisense
 Install dependencies
 
 bash
